@@ -1,6 +1,6 @@
 <!-- Hero -->
 <div align="center">
-  <img src="https://github.com/usmana5809/usmana0820/blob/main/hero-banner.png" alt="Usmana Zulfiqar Banner" width="90%">
+  <img src="https://github.com/usmana0820/usmana0820/blob/main/hero-banner.png" alt="Usmana Zulfiqar Banner" width="90%">
 </div>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#f54257;">Usmana Zulfiqar</span></h1>
