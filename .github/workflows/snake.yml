@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate contribution snake
 
 on:
   schedule:
@@ -13,12 +13,11 @@ permissions:
 
 jobs:
   generate:
-    name: Generate and Publish Snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: usmana0820
@@ -26,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish SVG files to output branch
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
