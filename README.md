@@ -200,13 +200,25 @@
   <img src="https://streak-stats.demolab.com?user=usmana0820&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak">
 </div>
 
-### 📈 Contribution Activity Graph
+<!-- ### 📈 Contribution Activity Graph
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=usmana0820&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Activity Graph"
     width="100%">
+</p> -->
+
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/usmana0820">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=usmana0820&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub contribution and repository statistics"
+      width="100%">
+  </a>
 </p>
 
 
