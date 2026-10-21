@@ -202,12 +202,13 @@
 
 ### 📈 Contribution Activity Graph
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=usmana0820&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=usmana0820&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Activity Graph"
     width="100%">
-</div>
+</p>
+
 
 ### 🐍 Contribution Snake
 
