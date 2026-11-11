@@ -192,8 +192,8 @@
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmana0820&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmana0820&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most-used languages">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="GitHub statistics">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Most-used languages">
 </div>
 
 <div align="center">
@@ -212,14 +212,10 @@
 
 ### 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/usmana0820">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=usmana0820&show_icons=true&theme=tokyonight&hide_border=true"
-      alt="GitHub contribution and repository statistics"
-      width="100%">
-  </a>
-</p>
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Most productive time of day">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Repositories per language">
+</div>
 
 
 ### 🐍 Contribution Snake
